@@ -36,3 +36,4 @@
       * designed a kerastuner model with different parameters to loop through for the activation, layers and neurons to check if the accuracy changes.
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+   1. The model did not improve its accuracy even after accounting for different activation types, number of neurons and layers. Adding more datapoints in the future could improve the accuracy. 
